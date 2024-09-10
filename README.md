@@ -6,7 +6,7 @@
 <img src="https://media1.giphy.com/media/1fYi7IQLtBuRm2nPNo/giphy.gif?cid=790b76117898d3b80f029fef16b0d26b692fc2e10406e66a&rid=giphy.gif&ct=s" align="center" style="width: 20%" />
 </div>  
 
-##### *<div align="left">I'm Arya S, a postgraduate in Economics, who's looking forward for better opportunities...! </div>*  
+#### *<div align="left">I'm Arya S, a postgraduate in Economics, who's looking forward for better opportunities...! </div>*  
   
 
 -  I’m currently working as a **Data Analyst & Business Analyst Intern** @Kulturehire💼  
@@ -15,40 +15,7 @@
 - I have a deep passion for working with complex data, finding key trends, and turning them into clear, actionable insights that guide smart and effective decision-making. ✍️  
   
 
-
-### **Data Analyst Skills:**
-- Data cleaning and preparation
-- Data visualization (using tools like Power BI, Tableau, or Excel)
-- Statistical analysis and modeling
-- SQL and database management
-- Python/R for data analysis
-- Data mining and extraction
-- Trend analysis and forecasting
-- Proficiency in Excel (Pivot Tables, VLOOKUP, advanced formulas)
-- Working with large datasets
-- A/B testing and experimentation
-- Reporting and dashboard creation
-- Attention to detail and accuracy
-
-### **Business Analyst Skills:**
-- Requirements gathering and documentation
-- Process mapping and optimization
-- Data-driven decision making
-- Business process improvement
-- Stakeholder management and communication
-- Risk analysis and mitigation
-- Market research and analysis
-- Problem-solving and critical thinking
-- Project management and planning
-- User stories and use case development
-- Business intelligence and reporting tools
-- Strategic thinking and planning
-
-  
-  
-
 #### Programming Languages & Tools
-
 - Python
 - R
 - SQL
@@ -58,48 +25,6 @@
 - Power BI
 - Excel
 
-
-  
-
-## **Libraries & Algorithms**
-
-### **Python:**
-- **Pandas**: Data manipulation and analysis
-- **NumPy**: Numerical computing
-- **Matplotlib**: Basic plotting and visualization
-- **Seaborn**: Statistical data visualization
-- **Plotly**: Interactive visualizations
-- **SciPy**: Advanced scientific computing
-- **Scikit-learn**: Machine learning and data analysis
-
-### **R:**
-- **ggplot2**: Data visualization
-- **dplyr**: Data manipulation
-- **tidyr**: Data tidying
-- **readr**: Data import
-- **shiny**: Interactive web applications
-- **lubridate**: Date and time manipulation
-- **plotly**: Interactive visualizations
-
-### **SQL:**
-- **SQLAlchemy**: SQL toolkit and Object-Relational Mapping (ORM) for Python
-- **Pandas** (SQL integration): Data analysis with SQL queries
-
-### **VBA (Visual Basic for Applications):**
-- **Excel VBA**: Built-in VBA for Excel macros and automation
-
-### **DAX (Data Analysis Expressions):**
-- **Power BI DAX**: Built-in DAX functions for calculations and data modeling in Power BI
-
-### **Tableau:**
-- **Tableau Calculations**: Built-in calculations and functions for data manipulation and visualization
-
-### **Power BI:**
-- **Power BI DAX**: Built-in DAX functions for calculations and data modeling
-
-### **Excel:**
-- **Excel Functions**: Built-in functions and formulas for data analysis and visualization  
-  
 
 <br/>  
 
