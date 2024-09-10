@@ -35,13 +35,11 @@
 
  
 
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 15%" />
-</div> 
-
-
 
 ## My Skill Set  
+<div align="left">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 15%" />
+</div> 
 
 ###
 
