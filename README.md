@@ -1,19 +1,27 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=2000&pause=500&color=D7A642EC&center=true&vCenter=true&width=700&height=100&lines=Hi+%2C+Welcome+to+my+Portfolio;+I'm+Arya+;Data+Analyst;Data+Specialist;Business+Intelligence+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=700&pause=500&&size=35&color=D7A642EC&center=true&vCenter=true&width=700&height=100&lines=Hi+%2C+Welcome+to+my+Portfolio;+I'm+Arya+;Data+Analyst;Data+Specialist;Business+Intelligence+Analyst)](https://git.io/typing-svg)
 </div>
+
 <div align="center">
 <img src="https://media1.giphy.com/media/1fYi7IQLtBuRm2nPNo/giphy.gif?cid=790b76117898d3b80f029fef16b0d26b692fc2e10406e66a&rid=giphy.gif&ct=s" align="center" style="width: 20%" />
 </div>  
 
-#### *<div align="left">I'm Arya S, a postgraduate in Economics, who's looking forward for better opportunities...! </div>*  
+
+
+### *<div align="center">I'm Arya S, a postgraduate in Economics, </div>* 
+
+#### *<div align="center"> Take a look at my portfolio and don’t hesitate to connect with me...! </div>*  
+
+#### About me
+- I’m currently working as a **Data Analyst & Business Analyst Intern** @Kulturehire💼  
   
 
--  I’m currently working as a **Data Analyst & Business Analyst Intern** @Kulturehire💼  
-  
+- I have a deep passion for working with complex data, finding key trends, and turning them into clear, actionable insights that guide smart and effective decision-making. ✍️
 
-- I have a deep passion for working with complex data, finding key trends, and turning them into clear, actionable insights that guide smart and effective decision-making. ✍️  
+- Currently I have 8 months experience in Data science and analytics field as well as I have been working on Data Analytics projects since my graduation.
   
+<br/>  
 
 #### Programming Languages & Tools
 - Python
@@ -25,9 +33,7 @@
 - Power BI
 - Excel
 
-
-<br/>  
-
+ 
 
 <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 15%" />
@@ -92,36 +98,53 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl6YWRubGEydTJlODRpbWN0YTZlcDMwdzhnMmJkdXZjNTFsc2Q1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kFNghExveIAk7fp6GX/giphy.webp"  />
 
-###
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/arya-dataanalyst/" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61561840001945" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://t.me/Aria_aurora" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/aria_prakash/" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="http://discordapp.com/users/796799592560853043" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/aryapersonaluse" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://x.com/aria_prakash" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ariaprakash" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/aria_prakash" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
 </div>
 
+###
   
 
 <br/>  
 
 ## Github Stats  
-
+<br clear="both">
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 10%" height="100" />
+</div>
 
 <div align="center">
 
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryapersonal&show_icons=true&bg_color=00000000)
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryapersonal&show_icons=true&theme=gruvbox&bg_color=00000000)
 
 </div>
 <br />
-
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 10%" />
-</div>
-<br clear="both">
-
-
 
 
 
