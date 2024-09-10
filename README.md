@@ -107,14 +107,20 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aryapersonal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+
+<div align="center">
+
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryapersonal&show_icons=true&bg_color=00000000)
+
+</div>
 <br />
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 10%" />
-</div>  
-
+</div>
 <br clear="both">
+
 
 
 
