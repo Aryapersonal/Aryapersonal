@@ -33,15 +33,15 @@
 - Power BI
 - Excel
 
- 
+<br clear="both"> 
 
-
-## My Skill Set  
 <div align="left">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 15%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 25%" />
 </div> 
 
-###
+## My Skill Set  
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
@@ -94,7 +94,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl6YWRubGEydTJlODRpbWN0YTZlcDMwdzhnMmJkdXZjNTFsc2Q1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kFNghExveIAk7fp6GX/giphy.webp"  />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arya-dataanalyst/" target="blank">
@@ -126,15 +125,13 @@
   </a>
 </div>
 
-###
-  
 
 <br/>  
 
 ## Github Stats  
 <br clear="both">
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 10%" height="100" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 75%" height="75" />
 </div>
 
 <div align="center">
