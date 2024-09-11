@@ -36,7 +36,7 @@
 <br clear="both"> 
 
 <div align="left">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 25%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tZjN2Ym05eGEyb2NobTk2a3o2N2l6OHZvaTlkNWpoazRjMTk2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EexoZsT9oPGFCXsaJP/giphy.webp" align="left" style="width: 10%" />
 </div> 
 
 ## My Skill Set  
@@ -131,7 +131,7 @@
 ## Github Stats  
 <br clear="both">
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 75%" height="75" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ2bHlldXVxbXF6MHhjcmZma3luZGpnZ2x2M3VlcGl4d2NjZzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0asuT1SXuVihdBkBh/giphy.webp" align="center" style="width: 7%" height="50" />
 </div>
 
 <div align="center">
@@ -139,8 +139,18 @@
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryapersonal&show_icons=true&theme=gruvbox&bg_color=00000000)
 
 </div>
+
 <br />
 
+## Streak Stats
+<br clear="both">
 
+  <p>
+    <div align="center">
+    <a href="https://github.com/Aryapersonal/github-readme-streak-stats">
+      <img title=" Get streak stats for your profile at git.io/streak-stats" alt="Arya's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Aryapersonal&theme=gruvbox-duo&hide_border=true"/>
+    </a>
+    </div>
+  </p>
 
 
