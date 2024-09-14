@@ -12,7 +12,7 @@
 ### *<div align="center">I'm Arya S, a postgraduate in Economics, </div>* 
 
 #### *<div align="center"> Take a look at my portfolio and don’t hesitate to connect with me...! </div>*  
-
+ 
 #### About me
 - I’m currently working as a **Data Analyst & Business Analyst Intern** @Kulturehire💼  
   
